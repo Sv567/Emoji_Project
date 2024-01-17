@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+body {
+    background-color: #000000;
+    color: #FFFFFF;
+    padding: 1rem;
+    padding-left: 2rem;
+}
+ #emoji_result{
+    font-size: 17px;
+    font-weight: 100;
+}
+input {
+    padding: 0.5rem;
+}
+td {
+    width: 50vw;
+    border-bottom: 1px solid #FFF;
+}
